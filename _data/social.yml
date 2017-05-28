@@ -1,0 +1,27 @@
+- sitename: GitHub
+  name: zikuai
+  url: https://github.com/zikuai
+
+- sitename: 掘金
+  name: zikuai
+  url: https://juejin.im/user/58d868752f301e007e87a1d2
+
+#- sitename: LinkedIn
+#  name:
+#  url: https://www.linkedin.com/
+
+#- sitename: 博客
+#  name: 码志
+#  url: http://mazhuang.org
+
+- sitename: 微博
+  name: zikuai
+  url: http://zikuai.github.io/
+
+- sitename: 知乎
+  name: zikuai
+  url: https://www.zhihu.com/people/zk-xie/activities
+
+- sitename: segmentfault
+  name: zikuai
+  url: https://segmentfault.com/u/sumzi
