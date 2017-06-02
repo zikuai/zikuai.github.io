@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://www.xiezk.org/
+url: http://xiezk.org/
 date_format: "ordinal"
 title: joker
 subtitle: "学习改变人生"
