@@ -16,6 +16,9 @@
 - name: 阮一峰
   url: http://www.ruanyifeng.com/blog/
 
+- name: 廖雪峰
+  url: http://www.liaoxuefeng.com/
+
 - name: ECMAScript 6 入门
   url: http://es6.ruanyifeng.com/
 

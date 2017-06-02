@@ -1,4 +1,6 @@
 _site/
+test/
+.idea/
 *.swp
 *.~vsd
 \#*\#
