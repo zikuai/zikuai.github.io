@@ -39,6 +39,7 @@
        // hljs.initHighlightingOnLoad();
       });
     </script>
+    <!--百度统计-->
     <script>
         var _hmt = _hmt || [];
         (function() {
@@ -46,6 +47,21 @@
             hm.src = "https://hm.baidu.com/hm.js?c82ffee674d61ad9f1c722be1ee6742e";
             var s = document.getElementsByTagName("script")[0];
             s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+    <!--百度推送-->
+    <script>
+        (function(){
+            var bp = document.createElement('script');
+            var curProtocol = window.location.protocol.split(':')[0];
+            if (curProtocol === 'https') {
+                bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+            }
+            else {
+                bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+            }
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(bp, s);
         })();
     </script>
     {% if site.google.analytics_id %}
