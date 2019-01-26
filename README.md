@@ -1,6 +1,7 @@
 # zikuai
 
-我的个人博客：<http://www.xiezk.org/>，欢迎 Star 和 Fork。
+我的个人博客：<http://www.xiezk.org/>，欢迎 Star 和 Fork。  
+基于Github & Jekyll的博客
 
 ## Fork 指南
 
